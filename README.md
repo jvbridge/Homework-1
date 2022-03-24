@@ -7,7 +7,7 @@ human readable/neat
 
 The original code can be found in `./original code`
 
-The assignment can be viewed in the deployed state at: TODO LINK HERE
+The assignment can be viewed in the deployed state at: https://jvbridge.github.io/Mockup-refactor
 
 It should look identicle to the mockup image
 <img src="./assets/images/01-html-css-git-homework-demo.png"
