@@ -45,7 +45,7 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
-/* the links themselves */
+/* the nav links themselves */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -66,6 +66,7 @@ p {
   background-position: center;
 }
 
+/* classes for aligning images */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -110,7 +111,7 @@ main {
   max-width: 150px;
 }
 
-/* the major sections for the main article */
+/* the major sections for the main area */
 article {
   margin-bottom: 20px;
   padding: 50px;
@@ -129,6 +130,7 @@ article h2 {
   font-size: 36px;
 }
 
+/* footer, cointains copyright information */
 footer {
   padding: 30px;
   clear: both;
